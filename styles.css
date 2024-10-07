@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(209, 4, 4);
+
+}
+
+p {
+    font-size: 17px;
+    font-family: sans-serif;
+    text-decoration: none;
+    position: relative;
+    width: 75%;
+    text-align: center;
+    justify-content: center;
+    margin: 18px; 
+    margin-left: 12%;
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+}
+h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+}
